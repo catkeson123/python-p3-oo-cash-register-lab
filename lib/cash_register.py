@@ -16,3 +16,4 @@ class CashRegister:
       print(f"After the discount, the total comes to ${int(self.total)}.")
     else:
       print("There is no discount to apply.")
+
